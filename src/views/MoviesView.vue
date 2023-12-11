@@ -89,6 +89,7 @@ onMounted(async () => {
   color: #000;
   font-weight: bolder;
 }
+
 .genre-list {
   display: flex;
   justify-content: center;

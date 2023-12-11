@@ -28,4 +28,4 @@ export const useGenreStore = defineStore('genre', () => {
   };
 })
 const genreStore = useGenreStore()
-export default genreStore;
+export default genreStore
